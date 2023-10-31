@@ -1,5 +1,5 @@
 theme = 'ananke'
-baseURL = 'http://example.org/'
+baseURL = 'https://the-gift-of-nothing.netlify.app/'
 languageCode = 'en-us'
 title = 'The Gift of Nothing'
 
