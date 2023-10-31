@@ -1,11 +1,10 @@
 # example netlify.toml
 [build]
   command = "hugo"
-  functions = "netlify/functions"
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.101.0"
+  HUGO_VERSION = "0.111.3"
 
 [[plugins]]
   package = "netlify-plugin-cypress"
