@@ -1,0 +1,5 @@
+theme = 'ananke'
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'The Gift of Nothing'
+
